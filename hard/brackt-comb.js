@@ -32,3 +32,4 @@ function BracketCombinations(num) {
   // (())()()(), 
   // keep this function call here 
 console.log(BracketCombinations(3));
+
